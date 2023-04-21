@@ -1,0 +1,106 @@
+{
+  "books": [
+    {
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "timeToRead": "13-minute read",
+      "coverImage": "1",
+      "finishedReading":null
+    },
+   {
+      "title": "Beyond Entrepreneurship",
+      "author": "Jim Collins & Bill Lazier",
+      "timeToRead": "13-minute read",
+      "coverImage": "2",
+      "noOfReads": "1.9k",
+      "finishedReading": null
+    },
+{
+      "title": "Doesn't Hurt to Ask",
+      "author": "Trey Gowdy",
+      "timeToRead": "13-minute read",
+      "coverImage": "3",
+      "noOfReads": "1.9k",
+      "finishedReading": null
+    },
+   
+    
+    {
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "timeToRead": "12-minute read",
+      "coverImage": "4",
+      "noOfReads": "16k",
+      "finishedReading": null
+    },
+    {
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "timeToRead": "13-minute read",
+      "coverImage": "5",
+      "finishedReading": null
+    },
+    {
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "timeToRead": "13-minute read",
+      "coverImage": "6",
+      "finishedReading": null
+    },
+    {
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "timeToRead": "15-minute read",
+      "coverImage": "7",
+      "finishedReading": null
+    },
+    {
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "timeToRead": "13-minute read",
+      "coverImage": "8",
+      "noOfReads": "1.9k",
+      "finishedReading": null
+    },
+    {
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "timeToRead": "12-minute read",
+      "coverImage": "9",
+      "finishedReading": null
+    },
+ 
+    {
+      "title": "Being Boss",
+      "author": "Kathleen Shannon and Emily...",
+      "timeToRead": "13-minute read",
+      "coverImage": "10",
+      "finishedReading": null
+    },
+ {
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "timeToRead": "15-minute read",
+      "coverImage": "11",
+      "finishedReading": null
+    }
+  ],
+  "trendingBlinks": [
+    "Being Boss",
+    "Beyond Entrepreneurship",
+    "Employee to Entrepreneur",
+    "The Fate of Food",
+    "Lives of the Stoics",
+    "Loving Your Business"
+  ],
+  "justAdded": [
+    "The Lonely Century",
+    "Eat Better, Feel Better",
+    "Dropshipping"
+  ],
+  "featured": [
+    "Bring Your Human to Work",
+    "Beyond Entrepreneurship",
+    "Doesn't Hurt to Ask"
+  ]
+}
